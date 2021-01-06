@@ -1,0 +1,5 @@
+$_FILE
+enctype="multipart/form-data"
+move_uploaded_file
+explode()
+end()

@@ -1,0 +1,6 @@
+<?php
+// harus ada session start kalau mau mennggunakan seasson
+session_start();
+$_SESSION["nama"] = "Ihsan Miftahul Huda";
+// session_unset -> untuk meyakinkan sesssion berakhir
+// session_destroy(); -> untuk menghilangkan session sebelumnya 
